@@ -71,5 +71,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonSG96/TailwindCSS-ProjectTravel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RonSG96/TailwindCSS-ProjectTravel/issues"
+  },
+  "homepage": "https://github.com/RonSG96/TailwindCSS-ProjectTravel#readme",
   "description": ""
 }
